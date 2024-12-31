@@ -1,2 +1,2 @@
 # MachineLearningIntro
-This file helps learn the basics of Machone learning models through Australian weather data
+This file helps learn the basics of Machine learning models through Australian weather data
